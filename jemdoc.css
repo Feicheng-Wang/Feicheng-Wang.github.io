@@ -366,3 +366,9 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.underline {
+  border-bottom: 1px solid currentColor;
+  display: inline-block;
+  line-height: 0.8;
+}
