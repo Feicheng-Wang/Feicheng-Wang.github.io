@@ -370,5 +370,5 @@ table.imgtable, table.imgtable td {
 .underline {
   border-bottom: 1px solid currentColor;
   display: inline-block;
-  line-height: 0.8;
+  line-height: 0.81;
 }
